@@ -1,0 +1,10 @@
+.carousel-item img {
+    object-fit: cover;
+    object-position: center;
+    height: 93vh;
+    overflow: hidden;
+}
+
+.card-img-top {
+    height: 17em;
+}
